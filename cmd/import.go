@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/adamdecaf/vault-backend-migrator/vault"
+	"github.com/gorshtein/vault-backend-migrator/vault"
 )
 
 func Import(path, file, ver string) error {

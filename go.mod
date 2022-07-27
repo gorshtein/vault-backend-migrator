@@ -1,4 +1,4 @@
-module github.com/adamdecaf/vault-backend-migrator
+module github.com/gorshtein/vault-backend-migrator
 
 go 1.17
 
